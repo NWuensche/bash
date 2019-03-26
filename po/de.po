@@ -1964,7 +1964,7 @@ msgstr "Kann die benannte Pipe %s nicht auf fd %d."
 
 #: subst.c:6062
 msgid "command substitution: ignored null byte in input"
-msgstr "Kommansosubstitution: NULL byte in der Eingabe ignoriert."
+msgstr "Kommandosubstitution: NULL byte in der Eingabe ignoriert."
 
 #: subst.c:6190
 msgid "cannot make pipe for command substitution"
